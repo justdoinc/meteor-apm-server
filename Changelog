@@ -1,3 +1,8 @@
+2017.11.10, Version 1.0.1
+
+* Add client/0config/bootstrap/custom.bootstrap.less and client/0config/bootstrap/custom.bootstrap.mixins.import.less to the tree
+not having these caused issues with the bundle build process
+
 2017.11.02, Version 1.0.0
 
 * First version
